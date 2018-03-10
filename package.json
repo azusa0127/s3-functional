@@ -7,5 +7,13 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Phoenix Song <github.com/azusa0127>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "aws-sdk": "^2.207.0",
+        "fastqueue": "^0.1.0",
+        "simple-semaphore": "^2.1.0"
+    },
+    "devDependencies": {
+        "simple.logger": "^1.0.1"
+    }
 }
