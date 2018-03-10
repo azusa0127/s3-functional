@@ -1,0 +1,11 @@
+{
+    "name": "s3-functional",
+    "version": "0.1.0",
+    "description": "Efficient aws s3 client with functional analytic support.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Phoenix Song <github.com/azusa0127>",
+    "license": "MIT"
+}
